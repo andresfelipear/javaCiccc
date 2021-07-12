@@ -5,4 +5,5 @@ module ca.ciccc.wmad202 {
     requires wmad202.assignment4;
     requires wmad202.assignment5;
     requires wmad202.assignment6;
+    requires wmad202.assignment7;
 }
