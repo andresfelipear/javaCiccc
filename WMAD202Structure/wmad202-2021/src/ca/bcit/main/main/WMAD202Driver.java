@@ -7,6 +7,7 @@ import ca.ciccc.wmad202.assignment4.main.Assignment4Driver;
 import ca.ciccc.wmad202.assignment5.main.Assignment5Driver;
 import ca.ciccc.wmad202.assignment6.main.Assignment6Driver;
 import ca.ciccc.wmad202.assignment7.main.Assignment7Driver;
+import ca.ciccc.wmad202.main.Assignment8Driver;
 
 public class WMAD202Driver {
     public static void main(String[] args){
@@ -16,6 +17,7 @@ public class WMAD202Driver {
         //Assignment4Driver.run();
         //Assignment5Driver.run();
         //Assignment6Driver.run();
-        Assignment7Driver.run();
+        //Assignment7Driver.run();
+        Assignment8Driver.run();
     }
 }
