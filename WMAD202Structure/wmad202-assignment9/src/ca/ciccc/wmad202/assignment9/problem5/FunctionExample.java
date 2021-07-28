@@ -8,7 +8,8 @@ public class FunctionExample {
         Function<String,String> str = st ->{
           return st+"Hello World!";
         };
-        String input = "Try on functional interface Function";
+        System.out.println("Interface Function");
+        String input = "Try on functional interface Function!! ";
         System.out.println(str.apply(input));
 
     }
