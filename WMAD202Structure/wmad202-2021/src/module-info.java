@@ -8,5 +8,6 @@ module ca.ciccc.wmad202 {
     requires wmad202.assignment7;
     requires wmad202.assignment8;
     requires wmad202.assignment9;
+    requires wmad202.Proyect;
 
 }
